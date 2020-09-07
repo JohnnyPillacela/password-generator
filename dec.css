@@ -1,0 +1,32 @@
+body{
+	background-color: #40E0D0;
+	font-size: 30px;
+}
+#title{
+	font-family: Comic Sans MS;
+	text-align: center;
+	height: auto;
+	width: auto;
+}
+#box{
+	font-family: cursive, sans-serif;
+	font-size: 20px;
+	text-align: justify;
+	text-align: center;
+}
+.button{
+	width: 100px;
+	height: 35px;
+	background-color: #e7e7e7; 
+	color: black;
+}
+.input{
+	width: 100px;
+	height: 20px;
+}
+#password{
+	text-shadow:5px 5px 10px #00FF00;
+}
+#pass{
+	text-align: center;
+}
